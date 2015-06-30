@@ -1,2 +1,1 @@
-Om nama shivaya!
-Om namo bhagavate vasudevaya!
+My first git example
